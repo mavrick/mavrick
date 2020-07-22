@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on MattePaint.com
+- 🌱 I’m currently learning k8s/go
+- 💬 Ask me about esports
+- 📫 How to reach me: @mavrickmaster on twitter
+
 <!--
 **mavrick/mavrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
