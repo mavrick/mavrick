@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on MattePaint.com
-- 🌱 I’m currently learning k8s/go
+- 🌱 I’m currently learning k8s/go/rust
 - 💬 Ask me about esports
 - 📫 How to reach me: @mavrickmaster on twitter
 
