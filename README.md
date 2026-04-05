@@ -1,7 +1,7 @@
 # Daniel Lang  
 **Senior Full Stack Engineer | Systems & Infrastructure | AI-Driven Platforms**
 
-Senior engineer with 10+ years building high-performance, production-grade systems across web, cloud, and real-time environments. Strong focus on scalable architecture, event-driven systems, and integrating AI into operational workflows. Experience spans full product lifecycle from infrastructure to UI, with a bias toward shipping.
+Senior engineer with 10+ years building high-performance, production-grade systems across web, cloud, real-time, and mobile environments. Strong focus on scalable architecture, event-driven systems, and integrating AI into operational workflows. Experience spans full product lifecycle from infrastructure to UI, with a bias toward shipping.
 
 ---
 
@@ -11,12 +11,16 @@ Senior engineer with 10+ years building high-performance, production-grade syste
 Distributed systems, event-driven architecture, real-time pipelines, high-performance backend design
 
 ### Backend Engineering  
-Node.js, Bun, Go, Rust  
+Node.js, Bun, Go, Rust, Python  
 API design, service orchestration, concurrency, data pipelines
 
 ### Frontend & Application Development  
 Vue.js, Nuxt (2/3/4), TypeScript  
 UI systems, SSR/SPA architecture, Electron & Tauri desktop apps
+
+### Mobile Development  
+Flutter, Android (native)  
+Mobile application architecture, performance optimisation, API integration
 
 ### Data & Storage  
 PostgreSQL (advanced), triggers, relational modelling  
@@ -41,6 +45,10 @@ Jest, Vitest, CI/CD integration
 ### Realtime Systems  
 Messaging systems, websocket infrastructure, live data flows
 
+### DCC & VFX Tooling  
+Nuke, Blender, Maya, Houdini, 3ds Max  
+Pipeline tooling, scripting, and integration within production workflows
+
 ---
 
 ## Tooling & Workflow
@@ -53,8 +61,8 @@ Strong focus on developer experience, automation, and iteration speed
 
 ## Specialisations
 
-- High-performance web platforms  
+- High-performance web and mobile platforms  
 - AI-integrated products and workflows  
 - Real-time systems and data pipelines  
 - Infrastructure-aware application design  
-- End-to-end ownership from architecture to deployment and scaling
+- End-to-end ownership from architecture to deployment and scaling  
